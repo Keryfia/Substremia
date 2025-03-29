@@ -97,3 +97,4 @@ This section describes the expected structure if subtitles were stored locally (
 - `GET /api/listall` - List all indexed subtitles (metadata)
 - `DELETE /api/subtitles/:type/:id/:lang` - Remove subtitles (metadata and potentially stored file)
 # Substremia
+# Substremia
